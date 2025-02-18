@@ -19,4 +19,4 @@ RESULTS representation:
 - share!;
 
 * for pro-s:
-- make a paper implemenation;
+make a paper implemenation;
