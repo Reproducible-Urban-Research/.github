@@ -18,5 +18,6 @@ RESULTS representation:
 - include at least 2-3 example implemantations of those libraries;
 - share!;
 
-* for pro-s:
+
+for pro-s:
 make a paper implemenation;
