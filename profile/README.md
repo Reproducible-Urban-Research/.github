@@ -12,3 +12,11 @@ MAIN IDEA is:
 - to run a new tool;
 - try to run it on some publicly accessible data (I encourage to use OSM in most cases);
 - create small report / example on how it goes on several cities across the glob e.g. Saint-P, Delhi, Newcastle etc.;
+
+RESULTS representation:
+- make a post on linkedin and/or medium{?};
+- include at least 2-3 example implemantations of those libraries;
+- share!;
+
+* for pro-s:
+- make a paper implemenation;
